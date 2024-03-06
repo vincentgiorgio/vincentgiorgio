@@ -1,4 +1,4 @@
-### I Analyze Data and Make Visualizations to Understand and Share It 👨‍💻📊📈 
+### I Make Data Visualizations to Learn and Share 👨‍💻📊📈 
 
 <!--
 **vincentgiorgio/vincentgiorgio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
