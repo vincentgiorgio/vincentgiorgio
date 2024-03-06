@@ -1,4 +1,4 @@
-### Hi there 👋
+### I Analyze Data and Make Visualizations to Understand and Share It 👨‍💻📊📈 
 
 <!--
 **vincentgiorgio/vincentgiorgio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
