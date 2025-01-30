@@ -1,4 +1,8 @@
-My Name Is Vince LoPinto | Mi Chiamo Vince LoPinto | Me Llamo Vince LoPinto | Je M'appelle Vince LoPinto | Mera Naam Vince LoPinto Hai 
+My Name Is Vince LoPinto 🇺🇸
+Mi Chiamo Vince LoPinto 🇮🇹
+Me Llamo Vince LoPinto 🇪🇸
+Je M'appelle Vince LoPinto 🇫🇷
+Mera Naam Vince LoPinto Hai 🇮🇳 
 ==============================
 
 Automation Engineer and Data Analyst
