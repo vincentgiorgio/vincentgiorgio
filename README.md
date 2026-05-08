@@ -8,7 +8,7 @@ Mera Naam Vince LoPinto Hai 🇮🇳
 Automation Engineer ⚙ and Data Analyst 📈
 ------------------------------------
 
-I've been learning to code for 8 years through undergraduate coursework as well as self lead projects. I'm switching careers from Automation Engineering to Data Analytics since I feel more fulfillment drawing actionable instights from data rather than building systems to gather data.
+I've been learning to code for 8 years through undergraduate coursework as well as self lead projects. I feel fulfillment from building systems to gather data as well as using data to produce actionable instights.
 
 *   🌍  I'm based in New Jersey / Philadelphia
 *   ✉️  You can contact me at [vincelopinto@gmail.com](mailto:vincelopinto@gmail.com)
